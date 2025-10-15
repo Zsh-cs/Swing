@@ -1,4 +1,4 @@
-package com.zsh.listener;
+package zsh.awt.listener;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

@@ -1,4 +1,4 @@
-package com.zsh.listener;
+package zsh.awt.listener;
 
 import java.awt.*;
 import java.awt.event.WindowEvent;

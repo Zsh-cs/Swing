@@ -1,4 +1,4 @@
-package com.zsh;
+package zsh.awt;
 
 import java.awt.*;
 
