@@ -8,6 +8,7 @@ import java.awt.*;
 import java.awt.event.KeyListener;
 import java.awt.event.MouseListener;
 import java.awt.event.WindowListener;
+import java.util.Arrays;
 
 /**
  * 窗口启动入口
@@ -24,18 +25,31 @@ public class Main {
 
     // 构造函数，负责创建和初始化Frame
     public Main() {
+
+        /**
+         * 1.创建窗口并初始化
+         */
         frame=new Frame("Red Dead Redemption");
         FrameInitializer initializer=new FrameInitializer();
 
-        //Caution: 注意满足多态原则
+        /**
+         * 2.设置监听器
+         * Caution: 注意满足多态原则
+         */
         WindowListener windowListener=new WindowListenerImpl();
         KeyListener keyListener=new KeyListenerImpl();
         MouseListener mouseListener=new MouseListenerImpl();
-
         initializer.initialFrame(frame);
         frame.addWindowListener(windowListener);
         frame.addKeyListener(keyListener);
         frame.addMouseListener(mouseListener);
+
+        /**
+         * 3.布置基本组件
+         */
+        BasicComponent component=new BasicComponent();
+        component.layoutComponents(frame);
+
 
     }
 

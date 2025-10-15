@@ -1,0 +1,540 @@
+格式：FontFamily >> FontName
+
+********************************************************************************
+********************************************************************************
+
+===============A===============
+
+Agency FB >> Agency FB
+Agency FB >> Agency FB Bold
+Algerian >> Algerian
+
+Arial >> Arial
+Arial Black >> Arial Black
+Arial >> Arial Bold
+Arial >> Arial Bold Italic
+Arial >> Arial Italic
+Arial Narrow >> Arial Narrow
+Arial Narrow >> Arial Narrow Bold
+Arial Narrow >> Arial Narrow Bold Italic
+Arial Narrow >> Arial Narrow Italic
+Arial Rounded MT Bold >> Arial Rounded MT Bold
+
+Artifakt Element >> Artifakt Element Bold
+Artifakt Element >> Artifakt Element Bold Italic
+Artifakt Element >> Artifakt Element Italic
+Artifakt Element >> ArtifaktElement-Regular
+
+
+===============B===============
+
+BERNIER Regular >> BERNIERRegular-Regular
+Bahnschrift >> Bahnschrift
+Baskerville Old Face >> Baskerville Old Face
+Bauhaus 93 >> Bauhaus 93
+
+Bell MT >> Bell MT
+Bell MT >> Bell MT Bold
+Bell MT >> Bell MT Italic
+
+Berlin Sans FB >> Berlin Sans FB
+Berlin Sans FB >> Berlin Sans FB Bold
+Berlin Sans FB Demi >> Berlin Sans FB Demi Bold
+
+Bernard MT Condensed >> Bernard MT Condensed
+Blackadder ITC >> Blackadder ITC
+
+Bodoni MT >> Bodoni MT
+Bodoni MT Black >> Bodoni MT Black
+Bodoni MT Black >> Bodoni MT Black Italic
+Bodoni MT >> Bodoni MT Bold
+Bodoni MT >> Bodoni MT Bold Italic
+Bodoni MT Condensed >> Bodoni MT Condensed
+Bodoni MT Condensed >> Bodoni MT Condensed Bold
+Bodoni MT Condensed >> Bodoni MT Condensed Bold Italic
+Bodoni MT Condensed >> Bodoni MT Condensed Italic
+Bodoni MT >> Bodoni MT Italic
+Bodoni MT Poster Compressed >> Bodoni MT Poster Compressed
+
+Book Antiqua >> Book Antiqua
+Book Antiqua >> Book Antiqua Bold
+Book Antiqua >> Book Antiqua Bold Italic
+Book Antiqua >> Book Antiqua Italic
+
+Bookman Old Style >> Bookman Old Style
+Bookman Old Style >> Bookman Old Style Bold
+Bookman Old Style >> Bookman Old Style Bold Italic
+Bookman Old Style >> Bookman Old Style Italic
+
+Bookshelf Symbol 7 >> Bookshelf Symbol 7
+Bradley Hand ITC >> Bradley Hand ITC
+Britannic Bold >> Britannic Bold
+Broadway >> Broadway
+Brush Script MT >> Brush Script MT Italic
+
+===============C===============
+
+Calibri >> Calibri
+Calibri >> Calibri Bold
+Calibri >> Calibri Bold Italic
+Calibri >> Calibri Italic
+Calibri Light >> Calibri Light
+Calibri Light >> Calibri Light Italic
+
+Californian FB >> Californian FB
+Californian FB >> Californian FB Bold
+Californian FB >> Californian FB Italic
+
+Calisto MT >> Calisto MT
+Calisto MT >> Calisto MT Bold
+Calisto MT >> Calisto MT Bold Italic
+Calisto MT >> Calisto MT Italic
+
+Cambria >> Cambria
+Cambria >> Cambria Bold
+Cambria >> Cambria Bold Italic
+Cambria >> Cambria Italic
+Cambria Math >> Cambria Math
+
+Candara >> Candara
+Candara >> Candara Bold
+Candara >> Candara Bold Italic
+Candara >> Candara Italic
+Candara Light >> Candara Light
+Candara Light >> Candara Light Italic
+
+Cascadia Code >> Cascadia Code Regular
+Cascadia Mono >> Cascadia Mono Regular
+Castellar >> Castellar
+Centaur >> Centaur
+
+Century >> Century
+Century Gothic >> Century Gothic
+Century Gothic >> Century Gothic Bold
+Century Gothic >> Century Gothic Bold Italic
+Century Gothic >> Century Gothic Italic
+Century Schoolbook >> Century Schoolbook
+Century Schoolbook >> Century Schoolbook Bold
+Century Schoolbook >> Century Schoolbook Bold Italic
+Century Schoolbook >> Century Schoolbook Italic
+
+Chiller >> Chiller
+Colonna MT >> Colonna MT
+
+Comic Sans MS >> Comic Sans MS
+Comic Sans MS >> Comic Sans MS Bold
+Comic Sans MS >> Comic Sans MS Bold Italic
+Comic Sans MS >> Comic Sans MS Italic
+
+Consolas >> Consolas
+Consolas >> Consolas Bold
+Consolas >> Consolas Bold Italic
+Consolas >> Consolas Italic
+
+Constantia >> Constantia
+Constantia >> Constantia Bold
+Constantia >> Constantia Bold Italic
+Constantia >> Constantia Italic
+
+Cooper Black >> Cooper Black
+Copperplate Gothic Bold >> Copperplate Gothic Bold
+Copperplate Gothic Light >> Copperplate Gothic Light
+
+Corbel >> Corbel
+Corbel >> Corbel Bold
+Corbel >> Corbel Bold Italic
+Corbel >> Corbel Italic
+Corbel Light >> Corbel Light
+Corbel Light >> Corbel Light Italic
+
+Courier New >> Courier New
+Courier New >> Courier New Bold
+Courier New >> Courier New Bold Italic
+Courier New >> Courier New Italic
+Curlz MT >> Curlz MT
+
+===============D===============
+
+DejaVu Math TeX Gyre >> DejaVuMathTeXGyre-Regular
+
+Dialog >> Dialog.bold
+Dialog >> Dialog.bolditalic
+Dialog >> Dialog.italic
+Dialog >> Dialog.plain
+
+DialogInput >> DialogInput.bold
+DialogInput >> DialogInput.bolditalic
+DialogInput >> DialogInput.italic
+DialogInput >> DialogInput.plain
+
+Dubai >> Dubai Bold
+Dubai Light >> Dubai Light
+Dubai Medium >> Dubai Medium
+Dubai >> Dubai Regular
+
+===============E===============
+
+Ebrima >> Ebrima
+Ebrima >> Ebrima Bold
+Edwardian Script ITC >> Edwardian Script ITC
+Elephant >> Elephant
+Elephant >> Elephant Italic
+Engravers MT >> Engravers MT
+Eras Bold ITC >> Eras Bold ITC
+Eras Demi ITC >> Eras Demi ITC
+Eras Light ITC >> Eras Light ITC
+Eras Medium ITC >> Eras Medium ITC
+
+===============F===============
+
+Felix Titling >> Felix Titling
+Footlight MT Light >> Footlight MT Light
+Forte >> Forte
+
+Franklin Gothic Book >> Franklin Gothic Book
+Franklin Gothic Book >> Franklin Gothic Book Italic
+Franklin Gothic Demi >> Franklin Gothic Demi
+Franklin Gothic Demi Cond >> Franklin Gothic Demi Cond
+Franklin Gothic Demi >> Franklin Gothic Demi Italic
+Franklin Gothic Heavy >> Franklin Gothic Heavy
+Franklin Gothic Heavy >> Franklin Gothic Heavy Italic
+Franklin Gothic Medium >> Franklin Gothic Medium
+Franklin Gothic Medium Cond >> Franklin Gothic Medium Cond
+Franklin Gothic Medium >> Franklin Gothic Medium Italic
+
+Freestyle Script >> Freestyle Script
+French Script MT >> French Script MT
+
+===============G===============
+
+Gabriola >> Gabriola
+Gadugi >> Gadugi
+Gadugi >> Gadugi Bold
+Garamond >> Garamond
+Garamond >> Garamond Bold
+Garamond >> Garamond Italic
+
+Georgia >> Georgia
+Georgia >> Georgia Bold
+Georgia >> Georgia Bold Italic
+Georgia >> Georgia Italic
+Gigi >> Gigi
+
+Gill Sans MT >> Gill Sans MT
+Gill Sans MT >> Gill Sans MT Bold
+Gill Sans MT >> Gill Sans MT Bold Italic
+Gill Sans MT Condensed >> Gill Sans MT Condensed
+Gill Sans MT Ext Condensed Bold >> Gill Sans MT Ext Condensed Bold
+Gill Sans MT >> Gill Sans MT Italic
+Gill Sans Ultra Bold >> Gill Sans Ultra Bold
+Gill Sans Ultra Bold Condensed >> Gill Sans Ultra Bold Condensed
+
+Gloucester MT Extra Condensed >> Gloucester MT Extra Condensed
+Goudy Old Style >> Goudy Old Style Italic
+Goudy Old Style >> Goudy Old Style Bold
+Goudy Old Style >> Goudy Old Style Italic
+Goudy Stout >> Goudy Stout
+
+===============H===============
+
+Haettenschweiler >> Haettenschweiler
+Harlow Solid Italic >> Harlow Solid Italic
+Harrington >> Harrington
+Heebo >> Heebo Regular
+High Tower Text >> High Tower Text
+High Tower Text >> High Tower Text Italic
+
+===============I===============
+
+Impact >> Impact
+Imprint MT Shadow >> Imprint MT Shadow
+Informal Roman >> Informal Roman
+Ink Free >> Ink Free
+
+===============J===============
+
+Javanese Text >> Javanese Text
+Jokerman >> Jokerman
+Juice ITC >> Juice ITC
+
+===============K===============
+
+Kingsoft Symbol >> Kingsoft Symbol
+Kristen ITC >> Kristen ITC
+Kunstler Script >> Kunstler Script
+
+===============L===============
+
+Leelawadee UI >> Leelawadee UI
+Leelawadee UI >> Leelawadee UI Bold
+Leelawadee UI Semilight >> Leelawadee UI Semilight
+Let's go Digital >> Let's go Digital Regular
+
+Lucida Bright >> Lucida Bright
+Lucida Bright >> Lucida Bright Demibold
+Lucida Bright >> Lucida Bright Demibold Italic
+Lucida Bright >> Lucida Bright Italic
+
+Lucida Calligraphy >> Lucida Calligraphy Italic
+Lucida Console >> Lucida Console
+
+Lucida Fax >> Lucida Fax Demibold
+Lucida Fax >> Lucida Fax Demibold Italic
+Lucida Fax >> Lucida Fax Italic
+Lucida Fax >> Lucida Fax Regular
+Lucida Handwriting >> Lucida Handwriting Italic
+
+Lucida Sans >> Lucida Sans Demibold Italic
+Lucida Sans >> Lucida Sans Demibold Roman
+Lucida Sans >> Lucida Sans Italic
+Lucida Sans >> Lucida Sans Regular
+Lucida Sans Typewriter >> Lucida Sans Typewriter Bold
+Lucida Sans Typewriter >> Lucida Sans Typewriter Bold Oblique
+Lucida Sans Typewriter >> Lucida Sans Typewriter Oblique
+Lucida Sans Typewriter >> Lucida Sans Typewriter Regular
+Lucida Sans Unicode >> Lucida Sans Unicode
+
+===============M===============
+
+MS Gothic >> MS Gothic
+MS Outlook >> MS Outlook
+MS PGothic >> MS PGothic
+MS Reference Sans Serif >> MS Reference Sans Serif
+MS Reference Specialty >> MS Reference Specialty
+MS UI Gothic >> MS UI Gothic
+
+MT Extra >> MT Extra
+MV Boli >> MV Boli
+Magneto >> Magneto Bold
+Maiandra GD >> Maiandra GD
+
+Malgun Gothic >> Malgun Gothic
+Malgun Gothic >> Malgun Gothic Bold
+Malgun Gothic Semilight >> Malgun Gothic Semilight
+
+Marlett >> Marlett
+Matura MT Script Capitals >> Matura MT Script Capitals
+MiSans >> MiSans
+Microsoft Himalaya >> Microsoft Himalaya
+微軟正黑體 >> 微軟正黑體
+微軟正黑體 >> 微軟正黑體 Bold
+微軟正黑體 Light >> 微軟正黑體 Light
+
+Microsoft JhengHei UI >> Microsoft JhengHei UI
+Microsoft JhengHei UI >> Microsoft JhengHei UI Bold
+Microsoft JhengHei UI Light >> Microsoft JhengHei UI Light
+Microsoft New Tai Lue >> Microsoft New Tai Lue
+Microsoft New Tai Lue >> Microsoft New Tai Lue Bold
+Microsoft PhagsPa >> Microsoft PhagsPa
+Microsoft PhagsPa >> Microsoft PhagsPa Bold
+Microsoft Sans Serif >> Microsoft Sans Serif
+Microsoft Tai Le >> Microsoft Tai Le
+Microsoft Tai Le >> Microsoft Tai Le Bold
+Microsoft YaHei UI Light >> Microsoft YaHei UI Light
+Microsoft YaHei UI >> Microsoft Yahei UI
+Microsoft YaHei UI >> Microsoft Yahei UI Bold
+Microsoft Yi Baiti >> Microsoft Yi Baiti
+
+細明體-ExtB >> 細明體-ExtB
+細明體_HKSCS-ExtB >> 細明體_HKSCS-ExtB
+細明體_MSCS-ExtB >> 細明體_MSCS-ExtB
+Mistral >> Mistral
+Modern No. 20 >> Modern No. 20
+Mongolian Baiti >> Mongolian Baiti
+
+Monospaced >> Monospaced.bold
+Monospaced >> Monospaced.bolditalic
+Monospaced >> Monospaced.italic
+Monospaced >> Monospaced.plain
+
+Monotype Corsiva >> Monotype Corsiva
+Myanmar Text >> Myanmar Text
+Myanmar Text >> Myanmar Text Bold
+新宋体 >> 新宋体
+
+===============N===============
+
+Niagara Engraved >> Niagara Engraved
+Niagara Solid >> Niagara Solid
+Nirmala Text >> Nirmala Text
+Nirmala Text >> Nirmala Text Bold
+Nirmala Text Semilight >> Nirmala Text Semilight
+Nirmala UI >> Nirmala UI
+Nirmala UI >> Nirmala UI Bold
+Nirmala UI Semilight >> Nirmala UI Semilight
+Noto Sans SC >> Noto Sans SC
+Noto Serif SC >> Noto Serif SC
+
+===============O===============
+
+OCR A Extended >> OCR A Extended
+Old English Text MT >> Old English Text MT
+Onyx >> Onyx
+新細明體-ExtB >> 新細明體-ExtB
+
+===============P===============
+
+Palace Script MT >> Palace Script MT
+Palatino Linotype >> Palatino Linotype
+Palatino Linotype >> Palatino Linotype Bold
+Palatino Linotype >> Palatino Linotype Bold Italic
+Palatino Linotype >> Palatino Linotype Italic
+Papyrus >> Papyrus
+Parchment >> Parchment
+Perpetua >> Perpetua
+Perpetua >> Perpetua Bold
+Perpetua >> Perpetua Bold Italic
+Perpetua >> Perpetua Italic
+Perpetua Titling MT >> Perpetua Titling MT Bold
+Perpetua Titling MT >> Perpetua Titling MT Light
+Playbill >> Playbill
+Poor Richard >> Poor Richard
+Pristina >> Pristina
+
+===============R===============
+
+ROG Fonts >> ROGFonts-Regular
+Rage Italic >> Rage Italic
+Ravie >> Ravie
+Rockwell >> Rockwell
+Rockwell >> Rockwell Bold
+Rockwell >> Rockwell Bold Italic
+Rockwell Condensed >> Rockwell Condensed
+Rockwell Condensed >> Rockwell Condensed Bold
+Rockwell Extra Bold >> Rockwell Extra Bold
+Rockwell >> Rockwell Italic
+
+===============S===============
+
+Sans Serif Collection >> Sans Serif Collection
+SansSerif >> SansSerif.bold
+SansSerif >> SansSerif.bolditalic
+SansSerif >> SansSerif.italic
+SansSerif >> SansSerif.plain
+Script MT Bold >> Script MT Bold
+
+Segoe Fluent Icons >> Segoe Fluent Icons
+Segoe MDL2 Assets >> Segoe MDL2 Assets
+Segoe Print >> Segoe Print
+Segoe Print >> Segoe Print Bold
+Segoe Script >> Segoe Script
+Segoe Script >> Segoe Script Bold
+
+Segoe UI >> Segoe UI
+Segoe UI Black >> Segoe UI Black
+Segoe UI Black >> Segoe UI Black Italic
+Segoe UI >> Segoe UI Bold
+Segoe UI >> Segoe UI Bold Italic
+Segoe UI Emoji >> Segoe UI Emoji
+Segoe UI Historic >> Segoe UI Historic
+Segoe UI >> Segoe UI Italic
+Segoe UI Light >> Segoe UI Light
+Segoe UI Light >> Segoe UI Light Italic
+Segoe UI Semibold >> Segoe UI Semibold
+Segoe UI Semibold >> Segoe UI Semibold Italic
+Segoe UI Semilight >> Segoe UI Semilight
+Segoe UI Semilight >> Segoe UI Semilight Italic
+Segoe UI Symbol >> Segoe UI Symbol
+Segoe UI Variable >> Segoe UI Variable
+
+Serif >> Serif.bold
+Serif >> Serif.bolditalic
+Serif >> Serif.italic
+Serif >> Serif.plain
+
+Showcard Gothic >> Showcard Gothic
+宋体 >> 宋体
+SimSun-ExtB >> SimSun-ExtB
+SimSun-ExtG >> SimSun-ExtG
+Sitka Text >> Sitka Text
+Sitka Text >> Sitka Text Italic
+Snap ITC >> Snap ITC
+Source Code Pro >> Source Code Pro
+Stencil >> Stencil
+Sylfaen >> Sylfaen
+Symbol >> Symbol
+
+===============T===============
+
+Tahoma >> Tahoma
+Tahoma >> Tahoma Bold
+Tempus Sans ITC >> Tempus Sans ITC
+
+Times New Roman >> Times New Roman
+Times New Roman >> Times New Roman Bold
+Times New Roman >> Times New Roman Bold Italic
+Times New Roman >> Times New Roman Italic
+
+Trebuchet MS >> Trebuchet MS
+Trebuchet MS >> Trebuchet MS Bold
+Trebuchet MS >> Trebuchet MS Bold Italic
+Trebuchet MS >> Trebuchet MS Italic
+
+Tw Cen MT >> Tw Cen MT
+Tw Cen MT >> Tw Cen MT Bold
+Tw Cen MT >> Tw Cen MT Bold Italic
+Tw Cen MT Condensed >> Tw Cen MT Condensed
+Tw Cen MT Condensed >> Tw Cen MT Condensed Bold
+Tw Cen MT Condensed Extra Bold >> Tw Cen MT Condensed Extra Bold
+Tw Cen MT >> Tw Cen MT Italic
+
+===============V===============
+
+Verdana >> Verdana
+Verdana >> Verdana Bold
+Verdana >> Verdana Bold Italic
+Verdana >> Verdana Italic
+
+Viner Hand ITC >> Viner Hand ITC
+Vivaldi >> Vivaldi Italic
+Vladimir Script >> Vladimir Script
+
+===============W===============
+
+Webdings >> Webdings
+Wide Latin >> Wide Latin
+
+Wingdings >> Wingdings
+Wingdings 2 >> Wingdings 2
+Wingdings 3 >> Wingdings 3
+
+===============Y===============
+
+Yu Gothic >> Yu Gothic Bold
+Yu Gothic Light >> Yu Gothic Light
+Yu Gothic Medium >> Yu Gothic Medium
+Yu Gothic >> Yu Gothic Regular
+
+Yu Gothic UI >> Yu Gothic UI Bold
+Yu Gothic UI Light >> Yu Gothic UI Light
+Yu Gothic UI >> Yu Gothic UI Regular
+Yu Gothic UI Semibold >> Yu Gothic UI Semibold
+Yu Gothic UI Semilight >> Yu Gothic UI Semilight
+
+===============中文字体===============
+
+仿宋 >> 仿宋
+华文中宋 >> 华文中宋
+华文仿宋 >> 华文仿宋
+华文宋体 >> 华文宋体
+华文彩云 >> 华文彩云
+华文新魏 >> 华文新魏
+华文楷体 >> 华文楷体
+华文琥珀 >> 华文琥珀
+华文细黑 >> 华文细黑
+华文行楷 >> 华文行楷
+华文隶书 >> 华文隶书
+宋体 >> 宋体
+幼圆 >> 幼圆
+微软雅黑 >> 微软雅黑
+微软雅黑 >> 微软雅黑 Bold
+微软雅黑 Light >> 微软雅黑 Light
+新宋体 >> 新宋体
+方正姚体 >> 方正姚体
+方正舒体 >> 方正舒体
+楷体 >> 楷体
+等线 >> 等线
+等线 >> 等线 Bold
+等线 Light >> 等线 Light
+隶书 >> 隶书
+黑体 >> 黑体

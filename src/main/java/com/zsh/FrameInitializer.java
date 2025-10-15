@@ -20,5 +20,6 @@ public class FrameInitializer {
 
         frame.setAlwaysOnTop(true);
         frame.setVisible(true);
+        frame.setLayout(null);// 布局暂时设置为null
     }
 }
